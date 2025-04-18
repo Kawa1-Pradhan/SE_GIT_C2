@@ -16,3 +16,6 @@ git branch -m main
 ```
 
 ## to add remote origin 
+```bash
+git remote add origin https://github.com/username/repo.git
+```

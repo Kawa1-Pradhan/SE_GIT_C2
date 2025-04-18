@@ -4,3 +4,8 @@
 ```bash
 git init
 ```
+## To add the files to git and take an snapshot we use this command
+``` bash
+git add .
+git commit -m "message"
+```

@@ -9,3 +9,10 @@ git init
 git add .
 git commit -m "message"
 ```
+
+## to rename the branch
+```bash
+git branch -m main
+```
+
+## to add remote origin 
